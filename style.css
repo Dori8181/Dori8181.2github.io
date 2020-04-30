@@ -1,0 +1,42 @@
+.item1 {
+  width:50px;
+  height: 50px;
+  background: blue;
+  position: center;
+  margin: 10px;
+  list-style-type: none;
+}
+
+.container1 {
+  width: 49%;
+  padding: 20px;
+  position: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex start;
+  flex-flow:row;
+  border: 1px solid blue;
+}
+
+
+
+.item2 {
+  width:50px;
+  height: 50px;
+  background: purple;
+  position: center;
+  margin: 10px;
+  list-style-type: none;
+}
+
+.container2 {
+  background: orange;
+  width: 49%;
+  padding: 20px;
+  position: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex start;
+  flex-flow:row;
+  border: 1px solid blue;
+}
